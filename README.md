@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**Genius200132/Genius200132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Genius200132/Genius200132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 # 💫 About Me:
 🔭 I’m currently working on Html, Css and JavaScript<br>👯 I'm looking to collaborate for web development<br>🌱 I’m currently learning React<br>💬 Ask me about Frontend
 
